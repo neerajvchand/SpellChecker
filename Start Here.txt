@@ -1,0 +1,12 @@
+CS245A1 Notes to grader:
+
+1. The main file of the program I have named SpellChecker.java.
+2. The folder SRC includes all the files I have done for this assignment. I have included the class files as well.
+3. The explanation of the Big-Oh is in the Big-Oh.txt file.
+4. Also included is the a1properties.txt.
+
+Extra Credit Parts:
+I am working on some extra credit parts but I am not able to submit it just yet. I will do so as soon as I finish.
+
+Sincerely,
+Neeraj
