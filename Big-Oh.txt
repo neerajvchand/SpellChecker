@@ -1,0 +1,7 @@
+The time complexity of Tree is Big(N).
+where "N" is the height of the tree.
+
+The time complexity of Trie Tree is Big(N).
+where "N" is the length of the word.
+
+so we see it clearly that Trie is faster than Tree.
